@@ -29,16 +29,17 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>MS Office</mark>, <mark>Python</mark>, <mark>QlikView</mark> and <mark>MSSQL</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: A Little More About Me
+
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in finance and data analysis some of my other interests and hobbies are:
    - Guitar
@@ -50,7 +51,9 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
+
+darkmode: false
 
 sass:
   sass_dir: _sass

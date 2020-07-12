@@ -1,10 +1,39 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: MIPT
+  dates: 2013 - 2017 
+  qualification: BSc System Analysis
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Moscow Institute of Physics and Technology (MIPT) is one of the leading Russian universities in the areas of physics and technology. 
+    The university holds a reputable position in the country and abroad for qualified graduate training.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    !!! Add info about Scholarship for double diploma program MIPT & RANEPA !!! 
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    At that time at [Phystech](https://mipt.ru/english/about/about-mipt/) I learnt most of my key skills 
+    that I have taken through my career such as problem solving, teamwork and working to tight deadlines. 
+    I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+    I spent a lot of my free time as a member of the *Faculty Student Council* working with a freshmen 
+    and as an *University Powerlifting Team* member that help me to polish my soft skills. 
+
+- layout: left
+  name: RANEPA
+  dates: 2013 - 2017 
+  qualification: BSc Economics
+  quote: >
+    The Russian Presidential Academy of National Economy and Public Administration (RANEPA) is the largest educational 
+    institution in Russia, represented by 54 branches, it successfully delivers highly important programs that train executive 
+    staff for the priority national projects.
+
+  description: | # this will include new lines to allow paragraphs
+    !!! Add info about Scholarship for double diploma program MIPT & RANEPA !!! 
+
+    At [RANEPA](https://www.ranepa.ru/eng/about-academy-ranepa/at-a-glance/) I learnt about economics, finance and management principles. 
+
+- layout: left
+  name: MIPT
+  dates: 2017 - 2020 
+  qualification: MSc Math & Computer Science
+  quote: >
+    Moscow Institute of Physics and Technology (MIPT) is one of the leading Russian universities in the areas of physics and technology. The university holds a reputable position in the country and abroad for qualified graduate training.
+  description: | # this will include new lines to allow paragraphs
+    !!! Bullet points for further: more technical skills, business courses, ventures, practice.  
