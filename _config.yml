@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Sergei Osipov
 title: Leading Financial Analyst
 email: sergei.osipov@phystech.edu
-website: https://github.com/sergeiosipov/sergeiosipov.com # www.sergeiosipov.com
+website: www.sergeiosipov.com
 
 # Social links
 # twitter_username: facespics
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sergei and I'm a leading financial analyst. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>MS Office</mark>, <mark>Python</mark>, <mark>QlikView</mark> and <mark>SQL</mark>
+  I am most skilled in: <mark>MS Office</mark>, <mark>Python</mark>, <mark>QlikView</mark> and <mark>MSSQL</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -51,6 +51,8 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
+
+darkmode: true
 
 sass:
   sass_dir: _sass
