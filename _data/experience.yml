@@ -1,8 +1,11 @@
 - layout: left
-  company: Insurance company "Sberbank insurance" LLC. 
+  company: Sberbank insurance 
   link: sberbankins.ru
-  job_title: Leading Financial Analyst
-  dates: March 2019 - Present
+  jobs:
+    - title: Senior Financial Analyst
+      dates: March 2019 - August 2019
+    - title: Leading Financial Analyst
+      dates: August 2019 - Present
   quote: >
    The fastest growing Insurance Company, Sberbank Insurance, is an affiliated company of Sberbank of Russia 
    that specializes in non-life insurance programmes (which includes corporate insurance)
@@ -11,3 +14,18 @@
    - Dashboards, 
    - Project & products analysis, 
    - Budgeting & Forecast 
+
+- layout: left
+  company: PwC Audit 
+  link: pwc.ru/en
+  jobs:
+    - title: Intern
+      dates: January 2017 - March 2017
+    - title: Consultant
+      dates: August 2017 - March 2019
+  quote: >
+   PwC provides industry-focused assurance and advisory services, as well as tax and legal services for public and private clients. 
+  description: | # this will include new lines to allow paragraphs
+   - Audit, 
+   - In-charge of the audit project, 
+   - Part-time consulting.

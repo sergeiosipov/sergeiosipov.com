@@ -1,39 +1,55 @@
 - layout: left
   name: MIPT
+  link: mipt.ru/english
   dates: 2013 - 2017 
-  qualification: BSc System Analysis
+  qualification: BSc in System Analysis and Management
   quote: >
-    Moscow Institute of Physics and Technology (MIPT) is one of the leading Russian universities in the areas of physics and technology. 
+    MIPT, Moscow Institute of Physics and Technology, also known as Phystech, is one of the leading Russian universities in the areas of physics and technology. 
     The university holds a reputable position in the country and abroad for qualified graduate training.
   description: | # this will include new lines to allow paragraphs
-    !!! Add info about Scholarship for double diploma program MIPT & RANEPA !!! 
-
-    At that time at [Phystech](https://mipt.ru/english/about/about-mipt/) I learnt most of my key skills 
+    At that time at MIPT I learnt most of my key skills 
     that I have taken through my career such as problem solving, teamwork and working to tight deadlines. 
-    I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    I spent a lot of my free time as a member of the *Faculty Student Council* working with a freshmen 
-    and as an *University Powerlifting Team* member that help me to polish my soft skills. 
+    During my bachelor degree at MIPT I had a lot of extracurricular activities: 
+    - In 2014-2015 I've been working as *Complier of Online Lectures* for MOOC Department at MIPT using LaTeX'.
+    - Also in 2014-2016 I spent a lot of my free time as a member of the *Faculty Student Council* working with a freshmen, 
+    I supervised first year students of 2014 and 2015 and co-organized initiation and preinitiation parties for them 
+    which helped me to develop my organizational and leadership qualities 
+    also I had a lot of fun working with and studying from them.
+    - In 2016-2017 I was a part of *MIPT Case Club*, that helped me polish my soft skills. 
+    During this time I participated in several business-case cups:
+        - "Changellenge Cup Russia 2016", our solution get us *High Quality Award 25%* (top 25%);
+        - "Changellenge Cup Moscow 2016", we get *High Quality Award 15%* (top 15%).
+    - Since the begging of the 3nd year (2015) I became *University Powerlifting Team* member which is a good way to stay healthy and productive. 
+    I took part in different competitions: 
+        - "Bench press Moscow Cup 2016" - it was my debut and I won 1st prize;
+        - "Bench press Russia Cup (Students) 2018" - the result was the 2nd place.
+
 
 - layout: left
   name: RANEPA
+  link: ranepa.ru/eng
   dates: 2013 - 2017 
-  qualification: BSc Economics
+  qualification: BSc in Economics
   quote: >
-    The Russian Presidential Academy of National Economy and Public Administration (RANEPA) is the largest educational 
-    institution in Russia, represented by 54 branches, it successfully delivers highly important programs that train executive 
-    staff for the priority national projects.
+    RANEPA, The Russian Presidential Academy of National Economy and Public Administration is the largest educational institution in Russia,
+    represented by 54 branches, it successfully delivers programs that train executive staff for the priority national projects.
 
-  description: | # this will include new lines to allow paragraphs
-    !!! Add info about Scholarship for double diploma program MIPT & RANEPA !!! 
+  description: | # this will include new lines to allow paragraphs 
+    At RANEPA I learnt about economics, finance and management principles. 
 
-    At [RANEPA](https://www.ranepa.ru/eng/about-academy-ranepa/at-a-glance/) I learnt about economics, finance and management principles. 
+    During study there I received several scholarships which help covering my tuition fees:
+    * Gazprom Bank Scholarship holder (2013 - 2016);
+    * Morgan Stanley Bank Scholarship holder (2016 - 2017);
 
 - layout: left
   name: MIPT
+  link: mipt.ru/english
   dates: 2017 - 2020 
-  qualification: MSc Math & Computer Science
+  qualification: MSc in Math & Computer Science
   quote: >
-    Moscow Institute of Physics and Technology (MIPT) is one of the leading Russian universities in the areas of physics and technology. The university holds a reputable position in the country and abroad for qualified graduate training.
+    MIPT, Moscow Institute of Physics and Technology, also known as Phystech, is one of the leading Russian universities in the areas of physics and technology. 
+    The university holds a reputable position in the country and abroad for qualified graduate training.
   description: | # this will include new lines to allow paragraphs
-    !!! Bullet points for further: more technical skills, business courses, ventures, practice.  
+    I was pursuing to gain more technical skills, to learn more about business and ventures and to practice through study projects.  
