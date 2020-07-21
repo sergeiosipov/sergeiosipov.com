@@ -1,6 +1,6 @@
 # Site
-languages: ["en", "ru"]
-repository: sergeiosipov/sergeiosipov.com
+# languages: ["en", "ru"]
+# repository: sergeiosipov/sergeiosipov.com # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sergeiosipov/sergeiosipov.com)
 favicon: images/favicon.ico
 
 # Personal info
@@ -8,6 +8,9 @@ name: Sergei Osipov
 title: Leading Financial Analyst
 email: sergei.osipov@phystech.edu
 website: www.sergeiosipov.com
+
+# Dark Mode (true/false/never)
+darkmode: false
 
 # Social links
 github_username:  sergeiosipov
@@ -65,10 +68,8 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-#theme: modern-resume-theme # (Use this is you are hosting your resume yourself)
+# theme: sergeiosipov/sergeiosipov.com # (Use this is you are hosting your resume yourself)
 remote_theme: sproogen/modern-resume-theme # (Use this if you are hosting your resume on GitHub)
-
-darkmode: false
 
 sass:
   sass_dir: _sass
