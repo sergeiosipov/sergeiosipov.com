@@ -10,10 +10,11 @@
    The fastest growing Insurance Company, Sberbank Insurance, is an affiliated company of Sberbank of Russia 
    that specializes in non-life insurance programmes (which includes corporate insurance)
   description: | # this will include new lines to allow paragraphs
-   - Automation, 
-   - Dashboards, 
-   - Project & products analysis, 
+   Key responsibilities:
+   - Projects' & products' PL analysis,
    - Budgeting & Forecast 
+   - Operative dashboards development & maintenance,  
+   - OP streamlining & Automation 
 
 - layout: left
   company: PwC Audit 
@@ -26,6 +27,7 @@
   quote: >
    PwC provides industry-focused assurance and advisory services, as well as tax and legal services for public and private clients. 
   description: | # this will include new lines to allow paragraphs
-   - Audit, 
-   - In-charge of the audit project, 
+   Key responsibilities:
+   - Audit (real estate, banks), 
+   - In-charge of the audit projects (IB), 
    - Part-time consulting.
