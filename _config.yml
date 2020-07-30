@@ -43,7 +43,7 @@ additional_links:
 about_title: About Me
 about_profile_image: images/sergeiosipov.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sergei and I'm a leading financial analyst. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sergei and I'm a leading financial analyst with a technical background. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>MS Office</mark>, <mark>Python</mark>, <mark>QlikView</mark> and <mark>MSSQL</mark>
 
