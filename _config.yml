@@ -1,6 +1,6 @@
 # Site
 # languages: ["en", "ru"]
-# repository: sergeiosipov/sergeiosipov.com # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sergeiosipov/sergeiosipov.com)
+repository: sergeiosipov/sergeiosipov.com # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sergeiosipov/sergeiosipov.com)
 favicon: images/favicon.ico
 
 # Personal info
